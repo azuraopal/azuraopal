@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/terminal-profile-mobile.svg">
-  <img src="./assets/terminal-profile.svg" width="840" alt="Muhammad Noval Supriyadi (@azuraopal), West Java, Indonesia. macOS / zsh. Web and backend projects: React, TypeScript, JavaScript, Go, PHP, Java.">
+  <img src="./assets/terminal-profile.svg" width="840" alt="Muhammad Noval Supriyadi (@azuraopal), West Java, Indonesia. Backend Developer &amp; Freelance Developer. macOS / zsh. Projects: React, TypeScript, JavaScript, Go, PHP, Java.">
 </picture>
 
 ### `azuraopal ~ % ls -1 projects/`
@@ -33,7 +33,7 @@
 
 **Muhammad Noval Supriyadi · @azuraopal**
 
-West Java, Indonesia. Web and backend projects using React, TypeScript, JavaScript, Go, PHP, and Java.
+Backend Developer & Freelance Developer. Based in West Java, Indonesia. Projects using React, TypeScript, JavaScript, Go, PHP, and Java.
 
 - [Karang Taruna](https://github.com/azuraopal/karang-taruna): community web application using React, TypeScript, and Vite.
 - [Digital Library](https://github.com/azuraopal/perpustakaan_digital_SMKN1CIOMAS): library management and book borrowing using PHP, MySQL, JavaScript, and Bootstrap.
